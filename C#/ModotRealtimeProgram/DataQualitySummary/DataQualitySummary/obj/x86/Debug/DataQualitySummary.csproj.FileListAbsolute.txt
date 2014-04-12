@@ -136,3 +136,6 @@ C:\MySVN\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummar
 C:\MySVN\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\MySVN\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
 C:\MySVN\MoDOTRealtime\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb
+C:\GitHub\MoDOT\trunk\C#\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\bin\Debug\DataQualitySummary.exe.config
+C:\GitHub\MoDOT\trunk\C#\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.exe
+C:\GitHub\MoDOT\trunk\C#\ModotRealtimeProgram\DataQualitySummary\DataQualitySummary\obj\x86\Debug\DataQualitySummary.pdb

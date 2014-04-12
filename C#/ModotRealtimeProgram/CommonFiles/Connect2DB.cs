@@ -28,7 +28,7 @@ namespace CommonFiles
                 ConnBuilder.DataSource = Config.Config.Database.Name;
                 ConnBuilder.InitialCatalog = Config.Config.Database.InitialCatalog;
                 ConnBuilder.UserID = Config.Config.Database.User;
-                ConnBuilder.Password = "Sql.slu2012";
+                ConnBuilder.Password = "XXXXX";
 
                 _SqlConn = new SqlConnection(ConnBuilder.ConnectionString);
 

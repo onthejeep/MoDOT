@@ -299,21 +299,6 @@ namespace FTP_Download
                 }
                 #endregion
 
-                #region FTP.dll
-                //using (Ftp client = new Ftp())
-                //{
-                //    client.ServerCertificateValidate += ValidateCertificate;
-
-                //    client.ConnectSSL(_Config.Config.FTP.IP, int.Parse(_Config.Config.FTP.Port));
-                //    client.Login(_Config.Config.FTP.User, _Config.Config.FTP.Pwd);
-                //    client.Mode = FtpMode.Active;
-
-                //    client.Download(_SourceFileName, fileName);
-
-                //    client.Close();
-                //}
-                #endregion
-
                 return true;
             }
             catch (WebException ex)

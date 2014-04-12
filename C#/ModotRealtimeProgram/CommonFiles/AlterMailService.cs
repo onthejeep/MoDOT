@@ -19,13 +19,13 @@ namespace CommonFiles
             _SmtpServer = new SmtpClient("smtp.gmail.com");
 
             _MailMess.From = new MailAddress("smarttranslab@gmail.com");
-            _MailMess.To.Add("syang32@slu.edu");
+            _MailMess.To.Add("shuyang@email.arizona.edu");
             
             _MailMess.IsBodyHtml = true;
 
 
             _SmtpServer.Port = 587;
-            _SmtpServer.Credentials = new System.Net.NetworkCredential("smarttranslab", "googleaccountpwd");
+            _SmtpServer.Credentials = new System.Net.NetworkCredential("smarttranslab", "XXXXXXX");
             _SmtpServer.EnableSsl = true;
 
         }
